@@ -1,0 +1,296 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd before the King and Queen in Their Majesties chappel at St. James, upon the Annunciation of our Blessed Lady, March 25, 1686 by Jo. Betham ...</title>
+            <author>Betham, John, d. 1709.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27534</idno>
+            <idno type="STC">Wing B2060</idno>
+            <idno type="STC">ESTC R9943</idno>
+            <idno type="EEBO-CITATION">12643425</idno>
+            <idno type="OCLC">ocm 12643425</idno>
+            <idno type="VID">65068</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27534)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65068)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 974:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd before the King and Queen in Their Majesties chappel at St. James, upon the Annunciation of our Blessed Lady, March 25, 1686 by Jo. Betham ...</title>
+                  <author>Betham, John, d. 1709.</author>
+               </titleStmt>
+               <extent>[2], 32, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+                  <note>Advertisement: p. [1]-[2] at end.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Great Britain --  Politics and government --  1660-1688 --  Pamphlets.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65068:1"/>
+            <pb facs="tcp:65068:1"/>
+            <p> A SERMON Preach'd before the King and Queen, IN Their MAJESTIES Chappel at St. <hi>James</hi>'s, upon the <hi>Annunciation</hi> of our <hi>Bleſſed Lady,</hi> March 25. 1686.</p>
+            <p>By <hi>JO. BETHAM</hi> Doctor of <hi>Sorbon.</hi>
+            </p>
+            <p>
+               <hi>Publiſhed by His Majeſties Command.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Henry Hills,</hi> Printer to the King's moſt Excellent Majeſty, for his Houſhold and Chappel. 1686.</p>
+            <p>Sold by <hi>Matthew Turner</hi> Bookſeller, at the <hi>Lamb</hi> in <hi>High-Holborn<g ref="char:punc">▪</g>
+               </hi>
+            </p>
+            <pb facs="tcp:65068:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:65068:2"/>
+            <head>A SERMON Preach'd before THEIR MAJESTIES, Upon the <hi>Annunciation</hi> of our Bleſſed Lady, March 25. 1686.</head>
+            <epigraph>
+               <q>
+                  <hi>Ecce concipies in utero &amp; paries filium.</hi> 
+                  <bibl>Luc. <hi>1. 31.</hi>
+                  </bibl>
+               </q>
+               <q>Behold thou ſhalt conceive in thy womb and bring forth a ſon.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HE moſt Solemn Embaſſy our World was ever honour'd with, appear'd this Day in <hi>Galilee,</hi> at the Town of <hi>Nazareth:</hi> The moſt ſurpriſing and aſtoniſhing News ever ſent from Heaven, was brought this Day
+<pb n="2" facs="tcp:65068:3"/> by the Angel <hi>Gabriel</hi> to the Virgin <hi>Mary.</hi> She was to remain the moſt ſpotleſs and pure of Virgins, and yet become the moſt Honourable of Mothers: She was Religi<g ref="char:EOLhyphen"/>ouſly to obſerve her Promiſe made to the Almighty of Perpetual Chaſtity and Virgi<g ref="char:EOLhyphen"/>nity; and yet on this Day become Fruit<g ref="char:EOLhyphen"/>ful, and conceive a Son: <hi>Ecce concipies in utero.</hi>
+            </p>
+            <p>Were the Prophets ever impatient upon any account, it was with the Expectation of this Days News, this Miraculous Con<g ref="char:EOLhyphen"/>ception, which brought with it the <hi>Meſſias</hi> ſo long ſighed after. <hi>Iſaiah</hi> declares he would never reſt, his Importunities ſhould never ceaſe for <hi>Sion</hi> and <hi>Hieruſalem, propter</hi>
+               <note place="margin">Eſa. 62. 1.</note> 
+               <hi>Sion non tacebo, propter Jeruſalem non qui<g ref="char:EOLhyphen"/>eſcam;</hi> till that Juſt Man ſhould appear, that Saviour, which ſhould illuminate the World, and ſhine as a burning Lamp; <hi>Do<g ref="char:EOLhyphen"/>nec—Salvator ejus ut lampas accendatur:</hi> So to ſhew their ardent Deſires, they addreſs themſelves in pathetical Apoſtrophes to the Earth and Heavens, beſeeching the one to ſend him down in a Cloud, or in a Hea<g ref="char:EOLhyphen"/>venly Dew; or the other to open its fruit<g ref="char:EOLhyphen"/>ful
+<pb n="3" facs="tcp:65068:3"/> Womb, that he may grow forth to ſave us; <hi>Rorate coeli deſuper, &amp; nubes pluant ju<g ref="char:EOLhyphen"/>ſtum,</hi>
+               <note place="margin">Eſa. 45: 8.</note> 
+               <hi>aperiatur terra &amp; germinet ſalvatorem.</hi> At other times they call upon his Omni<g ref="char:EOLhyphen"/>potent Hand to force his Paſſage, to break through the Heavens, and come down to our Relief; <hi>
+                  <g ref="char:V">Ʋ</g>tinam diſrumperes coelos, &amp;</hi>
+               <note place="margin">Eſa. 64. 1.</note> 
+               <hi>deſcenderes.</hi>
+            </p>
+            <p>Great Prophets, your Sighs and Tears at laſt have prov'd ſucceſsful, your earneſt Petitions are granted; the Calamities of Mankind, and your mournful Lamentati<g ref="char:EOLhyphen"/>ons, have ſo far prevail'd, that all things are now accompliſh'd which were to forego the happy arrival of this long-expected <hi>Meſſias.</hi> The Royal Scepter has paſt to a Stranger from the Sons of <hi>Judas,</hi> as <hi>Jacob</hi> foretold: <hi>Daniel</hi>'s Seventy Myſterious Weeks, or Septenaries of Years, are now expir'd: The Virgin that <hi>Iſaiah</hi> told King <hi>Achaz</hi> ſhould be fruitful and bear a Son, is prepar'd for ſo great a Myſtery; and the Herald is arriv'd from Heaven that pro<g ref="char:EOLhyphen"/>claims the joyful News; <hi>Ecce concipies in utero; Behold, thou ſhalt conceive in thy womb.</hi>
+            </p>
+            <pb n="4" facs="tcp:65068:4"/>
+            <p> Chaſte Virgin, of the Royal Race of <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> thou ſhalt this Day conceive a Son; not by the common way appointed by Nature, but by the Omnipotent Hand of the Holy Ghoſt: No Man ſhall have the Honour to be his Father; but he ſhall be called, what he truly is, <hi>The Son of the moſt High; Filius Altiſſimi vocabitur:</hi> The Eter<g ref="char:EOLhyphen"/>nal Son of the Eternal Father; the Omni<g ref="char:EOLhyphen"/>potent Word by which all things were Created; that Infinitely-ſignificant Word, which expreſſes all that God could conceive; this Incomprehenſible Word, this only Son of the Almighty, will this Day be united to Humane Nature in thy chaſte Womb, will miraculouſly become Man, and not diſdain to be truly thy Child, and at the ſame time the only Son of the moſt High, of God himſelf.</p>
+            <p>Here we have, Dear Chriſtians, two ſtu<g ref="char:EOLhyphen"/>pendious Myſteries, which the Church Ho<g ref="char:EOLhyphen"/>nours upon this Day: A Virg<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n made a Mother, without loſs of her Virginal Pu<g ref="char:EOLhyphen"/>rity: God made Man, without prejudice to his Divinity. This obliges me to divide my Diſcourſe between the Adorable Son,
+<pb n="5" facs="tcp:65068:4"/> and the miraculous Mother; explicating in my firſt Part the chief Cauſe or Reaſon why this only Son of God was this Day made Man, conceiv'd in the Womb of the Virgin <hi>Mary;</hi> and in my ſecond, I ſhall lay before you the Chief Honour due to the Mother. The Infinite Bleſſing we receiv'd from the Son, and the beſt way of Honour<g ref="char:EOLhyphen"/>ing the Mother, make the two Points of my Diſcourſe, and the Subject of Your Majeſties Royal Attention. It were raſh<g ref="char:EOLhyphen"/>neſs to diſcourſe upon ſo ſublime a Myſte<g ref="char:EOLhyphen"/>ry, without imploring the Aſſiſtance of that Holy Spirit by whoſe Divine Vertue it was wrought: Let us therefore humbly crave it by Her Interceſſion, who, before all Creatures, was choſen this Day as a mira<g ref="char:EOLhyphen"/>culous Inſtrument of the Worlds Redem<g ref="char:EOLhyphen"/>ption, when ſaluted by the Angel,
+<q>Hail, full of Grace.</q>
+            </p>
+            <div n="1" type="part">
+               <head>I. P.</head>
+               <p>THere's no Condition more deplora<g ref="char:EOLhyphen"/>ble, then to owe immenſe Sums, which muſt be paid to the laſt Farthing, under pain of Eternal Priſons and Everla<g ref="char:EOLhyphen"/>ſting Dungeons; and yet to be deſtitute
+<pb n="6" facs="tcp:65068:5"/> of all means to pay one Mite: Nothing more miſerable, then to be ſcourg'd and chaſtis'd during thouſands of years, for Crimes committed, and yet no Satisfaction made for the leaſt Offence. This was the unhappy Condition of Unfortunate Man, ever ſince the Fall of our Firſt Parents; whoſe Sin, upon that account, St. <hi>Auguſtin</hi> calls <hi>great beyond expreſſion, ineffabiliter</hi>
+                  <note place="margin">Enchir. c. 24.</note> 
+                  <hi>grande peccatum,</hi> by reaſon of that Miſery, <hi>ruina ineffabilis, that ineffable ruine,</hi> as the ſame Father calls it, which it drew upon their whole Poſterity. All the Scourges of Heaven upon Sinful Man, ever ſince the Worlds Creation, were juſt Chaſtiſe<g ref="char:EOLhyphen"/>ments of this firſt Rebellion; yet had they been infinitely more, they could not have reſtor'd him to his Maker's Favour. For, as St. <hi>Auguſtin</hi> obſerves, the General De<g ref="char:EOLhyphen"/>luge, the moſt ſevere Effect of the Divine Juſtice ever felt by Mankind, was only able to deſtroy Man, but not ſufficient to waſh away his Guilt: <hi>Diluvium hominem delevit,</hi>
+                  <note place="margin">Serm. 17.</note> 
+                  <hi>crimen delere non potuit. Moſes</hi> could drown <hi>Pharaoh</hi> and his Army, could open the Ocean and ſwallow up at once great part
+<pb n="7" facs="tcp:65068:5"/> of the Inhabitants of a whole Nation; yet this dreadful Puniſhment could make no Atonement with Heaven; their Sins ſtill remain'd: <hi>Moyſes exterminavit Aegyptum,</hi>
+                  <note place="margin">Ibidem.</note> 
+                  <hi>non peccatum.</hi> In fine, All Chaſtiſements ever undergone, all the Sacrifices ever of<g ref="char:EOLhyphen"/>fer'd, all the Vertues the World ever ad<g ref="char:EOLhyphen"/>mir'd, as the Faith of an <hi>Abraham,</hi> the Patience of a <hi>Job,</hi> the Meekneſs of a <hi>Mo<g ref="char:EOLhyphen"/>ſes,</hi> the Penance of a <hi>David,</hi> could not make Satisfaction for the leaſt Crime: <hi>No Man could be perfect to that degree,</hi> (ſays<note place="margin">Lib. 6. i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Luc.</note> St. <hi>Ambroſe) as to make Satisfaction for this ſinful World; Nullus hominum tantus eſſe potuit ut totius mundi peccata deleret.</hi> Nay, had all the Angels of Heaven, all the Men that ever had or will have a Being, been employ'd in nothing but ſighing forth Pe<g ref="char:EOLhyphen"/>nitential Pſalms; and with it whole Man<g ref="char:EOLhyphen"/>kind been condemn'd to feed on nothing but Duſt and Aſhes, to drink nothing but Brine and Tears, to be clad in Hair and Sackcloth, to have paſs'd whole Lives, tho' prolong'd to thouſands of Years, in the moſt ſevere and contradicting Mortificati<g ref="char:EOLhyphen"/>ons that Humane Nature can ſupport; all
+<pb n="8" facs="tcp:65068:6"/> theſe, tho' multiplied beyond the reach of <hi>Arithmetick,</hi> would fall infinitely ſhort of making juſt Satisfaction for the leaſt Capi<g ref="char:EOLhyphen"/>tal Crime.</p>
+               <p>The reaſon generally given by Fathers and Divines, why Mans Poverty and Weakneſs could not cancel that Hand<g ref="char:EOLhyphen"/>writing that was againſt us, <hi>Chirographum decreti,</hi> nor ſatisfie for the ſins commit<g ref="char:EOLhyphen"/>ted<note place="margin">Col. 2. 14.</note> againſt God, is the greatneſs of God and the vileneſs of Man: On the one ſide there was an Infinite Majeſty offended, on the other, a deſpicable Worm, the Offen<g ref="char:EOLhyphen"/>der: The offended was Lord and Maſter, abſolute and ſupream Proprietor of all that had a Being in Earth and Heaven; The Criminal had nothing he could call his own, nothing but what did all really be<g ref="char:EOLhyphen"/>long to his Offended Maker upon ſeveral Titles; on the one ſide, all Power, all Greatneſs, all Independency, all Maje<g ref="char:EOLhyphen"/>ſty, all Divinity; on the other, nothing but Impotency, Servitude, Dependency, Vileneſs and Baſeneſs. This raiſes our Sin and Rebellion to ſuch a degree of Enormity, that St <hi>Thomas</hi> of <hi>Aquin</hi> ſticks
+<pb n="9" facs="tcp:65068:6"/> not to call it in ſome meaſure Infinite, <hi>Pec<g ref="char:EOLhyphen"/>catum</hi>
+                  <note place="margin">Q. 1. de In<g ref="char:EOLhyphen"/>car. ar. 2. ad 2.</note> 
+                  <hi>contra Deum commiſſum quandam infi<g ref="char:EOLhyphen"/>nitatem habet;</hi> becauſe the Majeſty of<g ref="char:EOLhyphen"/>fended is infinitely Great, infinitely Good, infinitely Amiable, infinitely Adorable; Man the offender infinitely beneath him in all theſe ſublime Attributes; which inhances his guilt beyond the reach of Humane Comprehenſion. Nay, the great St. <hi>Ber<g ref="char:EOLhyphen"/>nard</hi> to give us a fuller notion of Sins ma<g ref="char:EOLhyphen"/>lice carries it yet higher, by impeaching Re<g ref="char:EOLhyphen"/>bel and Sinful Man, of no leſs a crime than <hi>Deicide,</hi> that is, a deſire to deſtroy God himſelf, as much as lies within the power of his malicious Will, <hi>Ipſum quantum in ipſa</hi>
+                  <note place="margin">Serm. 3. de Incar.</note> 
+                  <hi>eſt Deum perimit voluntas propria,</hi> ſtriking at the Divinity, and aiming to Dethrone the Almighty; becauſe, whoever offends God, do's at the bottom of his Heart, ſe<g ref="char:EOLhyphen"/>cretly deſire, that God either did not ſee him, or could not puniſh him, and ſo wiſh<g ref="char:EOLhyphen"/>es him either ignorant, or impotent, which is in effect, to deſire he were not what he is; that is, that he were not God, which makes St. <hi>Bernard's</hi> Zeal crie out, <hi>O crude<g ref="char:EOLhyphen"/>lis &amp; execranda malitia!</hi> O moſt cruel and
+<pb n="10" facs="tcp:65068:7"/> execrable malice! <hi>Quae Dei Potentiam, Ju<g ref="char:EOLhyphen"/>ſtiam, Sapientiam perire deſiderat,</hi> which deſires God might ceaſe to be Omnipotent, Juſt and Wiſe.</p>
+               <p>Thus it ſtood with unfortunate Man, for about Four thouſand Years, charg'd with an immenſe Debt, guilty of an infi<g ref="char:EOLhyphen"/>nite Malice; and at the ſame time deſti<g ref="char:EOLhyphen"/>tute of all means to make the leaſt pay<g ref="char:EOLhyphen"/>ment or ſatisfaction, which in juſtice was due and required. No Creature, that was only ſuch, could repair our Ruins; nothing leſs than a God could make juſt ſatisfacti<g ref="char:EOLhyphen"/>on for the Sins of Men; becauſe the bound<g ref="char:EOLhyphen"/>leſs greatneſs, and dignity of the Majeſty offended, as you have heard, render'd our Crimes infinitely enormous, and the de<g ref="char:EOLhyphen"/>ſpicable meanneſs of the Offender depreſs'd all the ſatisfaction, we could offer, infinite<g ref="char:EOLhyphen"/>ly beneath the leaſt proportion to our Of<g ref="char:EOLhyphen"/>fences, or the acceptance of the Perſon of<g ref="char:EOLhyphen"/>fended. Tell me, dear Chriſtians, Was there ever a condition more deplorable? ever a Cauſe more deſperate? Full ſatisfacti<g ref="char:EOLhyphen"/>on to be made, yet none poſſible but what muſt come from the offended himſelf; no
+<pb n="11" facs="tcp:65068:7"/> juſt Reconciliation, unleſs the Adorable will ſtoop to Submiſſion, and Humiliation, the Offended turns Advocate, and the Inno<g ref="char:EOLhyphen"/>cent be dragg'd to the Bar, and condem<g ref="char:EOLhyphen"/>ned for the Criminal, who ſtands indited and convicted at his Suit. What hopes is there of theſe Prodigies? Can Four thou<g ref="char:EOLhyphen"/>ſand Years Sin and Rebellion move the Al<g ref="char:EOLhyphen"/>mighty to ſo incomprehenſible a Conde<g ref="char:EOLhyphen"/>ſcendency? Can our Inſolence and Pride of ſo antient a date, and ſo long continu<g ref="char:EOLhyphen"/>ance prevail with our ſlighted Maker to undergo ſuch unbeſeeming Indignities for our ſakes? May we not here juſtly cry out as the Prophet <hi>Iſaiah</hi> did upon a leſs occaſi<g ref="char:EOLhyphen"/>on? Who ever heard or ſaw any thing like this! <hi>Quis audivit unquam tale, quis vidit</hi>
+                  <note place="margin">Eſa. 66. 8<g ref="char:punc">▪</g>
+                  </note> 
+                  <hi>huic ſimile?</hi> How prodigious ſoever this may ſeem, 'tis the Caſe truly ſtated; no Salvation for Man upon eaſier terms.</p>
+               <p>Therefore that Juſtice might at laſt tri<g ref="char:EOLhyphen"/>umph, after the unſucceſsful Endeavours of many Ages, conſum'd in millions of Sacrifices and Holocauſts, not regarded in the Court of Heaven, as St. <hi>Paul</hi> obſerves out of <hi>David, Holocautomata pro peccato non</hi>
+                  <note place="margin">Heb. 10. 6.</note>
+                  <pb n="12" facs="tcp:65068:8"/> 
+                  <hi>tibi placuerunt;</hi> his ſaving and juſt Provi<g ref="char:EOLhyphen"/>dence appointed a new, more agreeable Victim, by preparing a Humane Body for the Eternal Son of Heaven, as St. <hi>Paul</hi> ob<g ref="char:EOLhyphen"/>ſerves out of the ſame Royal Prophet, <hi>Corpus autem aptaſti mihi:</hi> Which Body<note place="margin">Heb. 10. 15.</note> was this Day fram'd in the Womb of the Spotleſs Virgin, for our Redemption. A<g ref="char:EOLhyphen"/>gainſt this Mediator no exception could be made, in his Satisfaction no flaw could be found; his Mediation could not be re<g ref="char:EOLhyphen"/>fus'd; for as St. <hi>Paul</hi> aſſures us, <hi>Non rapi<g ref="char:EOLhyphen"/>nam</hi>
+                  <note place="margin">Phil. 2. 6.</note> 
+                  <hi>arbitratus eſt eſſe ſe aequalem Deo,</hi> He did not think it any Uſurpation or Preſumpti<g ref="char:EOLhyphen"/>on to ſtile himſelf equal with God; Om<g ref="char:EOLhyphen"/>nipotent with his Eternal Father, equally Great, equally Juſt, equally Independent, the ſame in Sanctity, the ſame in Majeſty, the ſame in all things that were Divine, without any Incroachment upon his Fa<g ref="char:EOLhyphen"/>thers Prerogatives: <hi>Non rapinam,</hi> &amp;c.</p>
+               <p>Neither could his Satisfaction be re<g ref="char:EOLhyphen"/>fus'd, becauſe conformable to the moſt ri<g ref="char:EOLhyphen"/>gorous Rules of Juſtice; infinitely charm<g ref="char:EOLhyphen"/>ing, as the fault was infinitely hateful, in<g ref="char:EOLhyphen"/>finitely ſubmiſſive, as the fault was infinite<g ref="char:EOLhyphen"/>ly
+<pb n="13" facs="tcp:65068:8"/> inſolent, infinitely meritorious, as the fault was infinitely unworthy, infinitely pa<g ref="char:EOLhyphen"/>cifying and appeaſing, as the fault was in<g ref="char:EOLhyphen"/>finitely provoking; fully equalling our Debts, as the Council of <hi>Epheſus</hi> obſerves, <hi>Ad amuſſim debita noſtra coaequantem,</hi> which made St. <hi>Paul</hi> ſay, we were Redeemed at<note place="margin">1 Cor. 6. ult.</note> a high rate, <hi>Pretio magno,</hi> with an ineſti<g ref="char:EOLhyphen"/>mable Ranſom.</p>
+               <p>May we not here, Dear Chriſtians, more juſtly cry out, then the Prophet <hi>Jeremy</hi> did upon a leſs ſurpriſing Occaſion, <hi>Obſtupeſcite</hi>
+                  <note place="margin">Jer. 2. 12.</note> 
+                  <hi>coeli ſuper hoc! Stand aſtoniſhed at this, O you Heavens!</hi> Man hath offended God; the ſame provoked God comes to ſatisfie for the very Offences committed againſt his own Perſon: Man by Pride had ſoar'd above himſelf in affecting to be like the moſt High; God, that he might not periſh for this Inſolence, ſtoops to the greateſt of Humiliations, and becomes the moſt Low. Man had abandon'd God, ſold himſelf to be Captive and Slave to the Devil; God deſcended into the nar<g ref="char:EOLhyphen"/>row and dark Priſon of a poor Virgin's Womb, to reſtore Man to his loſt Liberty,
+<pb n="14" facs="tcp:65068:9"/> and reſcue him out of the Hands and Ty<g ref="char:EOLhyphen"/>rannical Poſſeſſion of the Powers of Dark<g ref="char:EOLhyphen"/>neſs. In fine, Stupid and ungrateful Man had for thouſands of years debauch'd his Affections with fatal Friendſhips, criminal Loves, pernicious Alliances and Unions with all the declar'd Enemies of Heaven; God, to reclaim and ſave this perverſe Creature, deſcended ſo low, as to unite himſelf really and ſubſtantially to deſpica<g ref="char:EOLhyphen"/>ble Humane Nature, for an endleſs Eter<g ref="char:EOLhyphen"/>nity. Had not St. <hi>Leo</hi> juſt reaſon here to ſay, <hi>Mirabilior nobis Dei humilitas quam po<g ref="char:EOLhyphen"/>teſtas;</hi>
+                  <note place="margin">Serm. 10. de Paſſ.</note> That the boundleſs Power he ſhew'd in raiſing this fair World out of Nothing, Peopling the Heavens with Angels, the Earth with Men, and all variety of Crea<g ref="char:EOLhyphen"/>tures, was not ſo ſurpriſing and aſtoniſh<g ref="char:EOLhyphen"/>ing, as the inconceivable Humiliations he underwent in the Redemption of Man; <hi>Mirabilior nobis, &amp;c.</hi>
+               </p>
+               <p>Were we here permitted, <hi>O Eternal Maker,</hi> humbly to expoſtulate with thy ineffable Bounty; Couldſt thou not have left a Race of Rebels, Deſpiſers of thy Laws, Blaſphe<g ref="char:EOLhyphen"/>mers of thy Majeſty, Monſters of Ingrati<g ref="char:EOLhyphen"/>tude?
+<pb n="15" facs="tcp:65068:9"/> Couldſt thou not have abandon'd them to the utmoſt Rigour of thy pro<g ref="char:EOLhyphen"/>vok'd Juſtice? Had thy Divine Majeſty been ever the leſs Adorable? Had thy E<g ref="char:EOLhyphen"/>ternity been ſhortned? Had thy Immenſi<g ref="char:EOLhyphen"/>ty been confin'd? Had thy Omnipotency been weakned? Had thy Infinity been li<g ref="char:EOLhyphen"/>mited? Had thy Glory been eclips'd? What prejudice had God ſuffer'd, if the vileſt Ingratitude had been chaſtis'd? if Man, the moſt unworthy of Creatures, had periſh'd for ever? Had thy Friends for<g ref="char:EOLhyphen"/>ſaken thee becauſe thy Enemies were pu<g ref="char:EOLhyphen"/>niſh'd? Had not the Father, Son, and Ho<g ref="char:EOLhyphen"/>ly Ghoſt ſtill enjoy'd one another in Boundleſs Knowledge, in Infinite Love, in Immenſe Glory? Would not the Angels ſtill have been ready at thy beck, the Che<g ref="char:EOLhyphen"/>rubims rapt in Contemplation of thy Great<g ref="char:EOLhyphen"/>neſs, the Seraphims melted in the Flames of thy Love? Would not the Earth and Heavens, with all other Creatures, have ſtill trembled in thy Preſence, and ſubmiſ<g ref="char:EOLhyphen"/>ſively own'd thee as their Supream Lord, altho' ungrateful Man had been treated according to his Demerits?</p>
+               <pb n="16" facs="tcp:65068:10"/>
+               <p>'Tis true, Dear Chriſtians, God's abſo<g ref="char:EOLhyphen"/>lute Independency and Supream Domini<g ref="char:EOLhyphen"/>on places him infinitely above ſuch Caſu<g ref="char:EOLhyphen"/>alties upon the account of his Creatures Diſorders: And altho' that Power which created the Univerſe with a Word, could with the ſame eaſe have ſav'd or aban<g ref="char:EOLhyphen"/>don'd all Mankind; yet, all this notwith<g ref="char:EOLhyphen"/>ſtanding, it was not to be done upon other Terms. The Reaſon was, Becauſe God would not have the Greatneſs of his Mer<g ref="char:EOLhyphen"/>cy ſo manifeſted, that he might ſeem in the leaſt to neglect his Juſtice; he would joyn together thoſe ſeemingly oppoſite Attributes, after ſo admirable a manner, that his Mercy ſhould never appear more Indulgent, nor his Juſtice more Severe; fully making good <hi>David</hi>'s Prophecy, <hi>Ju<g ref="char:EOLhyphen"/>ſtitia &amp; Pax oſculatae ſunt.</hi> His Mercy could never have pardon'd more, his Ju<g ref="char:EOLhyphen"/>ſtice could never exact more. 'Tis only here he was infinitely Merciful, to ſatisfie himſelf in Perſon for the Offences com<g ref="char:EOLhyphen"/>mitted againſt his own Laws; 'tis here he was infinitely Juſt and Severe, in admit<g ref="char:EOLhyphen"/>ting of no leſs Satisfaction then what was
+<pb n="17" facs="tcp:65068:10"/> offer'd by his own Coeternal and Coequal Son, who could not atone for us, had he been of an inferiour Rank, as St. <hi>Leo</hi> ob<g ref="char:EOLhyphen"/>ſerves, <hi>Niſi eſſet verus Deus non adferret re<g ref="char:EOLhyphen"/>medium.</hi>
+                  <note place="margin">Serm. 1. de Nat.</note> God, the Eternal Juſtice it ſelf, will have full Satisfaction for the Sins com<g ref="char:EOLhyphen"/>mitted againſt his Perſon and Orders; this cannot be had but from a Perſon equal to himſelf; therefore his only Son, who is God, and Equal with himſelf, crowds (as I may ſay) his Immenſity into the narrow Womb of a Virgin, mercifully takes the Form of a Servant, and by it raiſes our Po<g ref="char:EOLhyphen"/>verty to the rich Condition of being able to pay a full and juſt Ranſom for the Sins of all Mankind.</p>
+               <p>Here ſtop a while, my Soul, and Con<g ref="char:EOLhyphen"/>template the Eternal Word, the Omnipo<g ref="char:EOLhyphen"/>tent Son of Heaven, for thy ſake, become an Infant Child; Behold his boundleſs Love for many, as the Prophet <hi>Sophonias</hi> foretold, has reduced him to a charming ſi<g ref="char:EOLhyphen"/>lence, <hi>Silebat in dilectione ſuâ,</hi> he was ſilent<note place="margin">Sopho. 3. 17.</note> in the deareſt expreſſion of his Love. O Incomparable Invention of Divine Mercy! Oh Silence more Eloquent than all the
+<pb n="18" facs="tcp:65068:11"/> Tongues of Men and Angels! more force<g ref="char:EOLhyphen"/>able in the ſight of Heaven than all the Pe<g ref="char:EOLhyphen"/>nitential Pſalms of <hi>David,</hi> than all the La<g ref="char:EOLhyphen"/>mentations of <hi>Jeremy,</hi> than all the earneſt Petitions, and languiſhing ſighs of the Pa<g ref="char:EOLhyphen"/>triarchs and Prophets, which cries more loud, tho' in a ſweeter ſtrain, than the Blood of an innocent <hi>Abel,</hi> pleads Man's Cauſe with a Heavenly Eloquence, the hap<g ref="char:EOLhyphen"/>py Product of his infinite Love, <hi>ſilebat in dilectione ſuâ.</hi> Was ever Love carried to this height? was ever Charity to be com<g ref="char:EOLhyphen"/>pared to this? The only Son of Heaven, the Immence Word of the Almighty, re<g ref="char:EOLhyphen"/>duc'd to the ſtate of a newly conceiv'd In<g ref="char:EOLhyphen"/>fant: And why? St. <hi>Paul</hi> tells you in a few, but moſt ſurprizing words, <hi>Peccatores ſal<g ref="char:EOLhyphen"/>vos</hi>
+                  <note place="margin">1 Tim. 1. 16.</note> 
+                  <hi>facere,</hi> to ſave Sinners, his declar'd E<g ref="char:EOLhyphen"/>nemies, Ungrateful Rebellious Sinners; to ſave you that have contemn'd his Benefits, abuſed his Graces, vilified his Glory, blaſ<g ref="char:EOLhyphen"/>phemed his Majeſty, for the Salvation of ſuch who ſo little deſerv'd it. He is this Day miraculouſly made Man, ſubſtantially uni<g ref="char:EOLhyphen"/>ted to one of his own Creatures, infinitely beneath him in all Perfections. Would
+<pb n="19" facs="tcp:65068:11"/> any here preſent willingly conſent, that his Rational Soul, his Humane Nature ſhould be really and inſeperably united for all Eter<g ref="char:EOLhyphen"/>nity, to the Nature of a Serpent, a Toad, a Worm, or what is more Vile and Abject amongſt Creatures; and this only to re<g ref="char:EOLhyphen"/>deem from Slavery, that Perſon of the World which moſt contemned him that let ſlip no occaſion of ſhewing himſelf to be your moſt inveterate and implacable Ene<g ref="char:EOLhyphen"/>my? Alas! all this is infinitely out-done in our preſent Myſtery. The Creator of all things is ſubſtantially united to that crea<g ref="char:EOLhyphen"/>ted Nature, which of all Beings had been moſt ungrateful; the ſupream Lord and Maſter of Heaven and Earth hath aſſum'd the contemptible Nature of his own Slave and Vaſſal, God is become Man, and will remain ſo for all Eternity, to ſave his own Rebellious Creatures, his Treacherous Ser<g ref="char:EOLhyphen"/>vants, Monſters of Sin and Iniquity, <hi>Pec<g ref="char:EOLhyphen"/>catores ſalvos facere.</hi> 'Tis here clear, Bre<g ref="char:EOLhyphen"/>theren, the Powers of Heaven ſtand aſto<g ref="char:EOLhyphen"/>niſh'd, and ſubmiſſively adore the pro<g ref="char:EOLhyphen"/>found Abyſs of the Divine Wiſdom, the Infinite ſeverity of his Rigorous Juſtice, the
+<pb n="20" facs="tcp:65068:12"/> Charming Goodneſs of that <hi>God of Mer<g ref="char:EOLhyphen"/>cies;</hi> who altho abandon'd by his own Creatures, not own'd as their Father or Benefactor, but deſpis'd, vilify'd, and hated, as their inveterate Enemy; yet appears this Day the moſt Gracious of Sovereigns, the moſt Bountiful of Benefactors, the moſt Tender of Fathers, giving us all the Treaſures of Heaven, his only Son, as the moſt Generous and Indearing Inſtance of an Infinite Love, <hi>Sic Deus dilexit mundum ut filium ſuum unigenitum daret.</hi>
+               </p>
+               <p>May we not juſtly ſay with St. <hi>Aug.</hi> That altho' we have been inſenſible of all other Benefits his Bounty has heap'd upon us ſince the Worlds Creation; yet certain<g ref="char:EOLhyphen"/>ly this ſtrongeſt Proof of an Infinite Love muſt force ſome return from the moſt Stony Heart, <hi>Si amare pigebat ſaltem reda<g ref="char:EOLhyphen"/>mare non pigeat.</hi>
+               </p>
+               <p>That Nature upon which the Firſt <hi>Adam</hi> had intail'd Temporal Miſeries and Eter<g ref="char:EOLhyphen"/>nal Puniſhments, is this Day, by the Second <hi>Adam,</hi> renewing its Title and Claim to Eternal Glory; the Preſſures and Calami<g ref="char:EOLhyphen"/>ties we ſigh'd under, as Chaſtiſements of
+<pb n="21" facs="tcp:65068:12"/> our Sins, are this Day made the beſt and ſureſt Earneſt of everlaſting Bliſs: All Crea<g ref="char:EOLhyphen"/>tures that ever had become our Maſters, and had debauch'd our Affections, are again falling at our Feet, by that Grace of our Redeemer that makes us triumph over them, and deſpiſe them. The Way to Heaven, hitherto unknown and untrod<g ref="char:EOLhyphen"/>den by Mankind, is now clearly diſcover'd, and eaſie to be walk'd in. The Law of Fi<g ref="char:EOLhyphen"/>gures, confin'd to <hi>Judea,</hi> is receiving an end, and all Nations invited to a better Worſhip, to <hi>adore in Spirit and Truth.</hi> The Diſtance kept with Man for thouſands of Years, is this Day diſpens'd with; he is Hy<g ref="char:EOLhyphen"/>poſtatically united to Humane Nature: and that nothing might be wanting, he graciouſly appears in our own Form. This muſt needs charm us, how inſenſible ſoe<g ref="char:EOLhyphen"/>ver we were to paſt Favours, <hi>ſi amare pi<g ref="char:EOLhyphen"/>gebat ſaltem redamare non pigeat.</hi>
+               </p>
+               <p>If any thing appears on this Day that puts us in mind of his heretofore ſo for<g ref="char:EOLhyphen"/>midable Omnipotency, 'tis only the con<g ref="char:EOLhyphen"/>founding the Powers of Darkneſs, wreſting their Prey out of their Mouths, the repair<g ref="char:EOLhyphen"/>ing
+<pb n="22" facs="tcp:65068:13"/> the Ruins caus'd by Sin, not to be made up by a leſſer Power. No Effects here of his Juſtice, that Attribute ſo dread<g ref="char:EOLhyphen"/>ful to Mankind, unleſs it be the offering himſelf a rich Victim of Peace, in full ſatisfaction to our offended God, recon<g ref="char:EOLhyphen"/>ciling this ſinful World to his Eternal Fa<g ref="char:EOLhyphen"/>ther, himſelf, and Heaven, <hi>mundum recon<g ref="char:EOLhyphen"/>cilians ſibi.</hi> This was the Buſineſs he came for; for this Reaſon he aſſum'd Humane Nature, as you have heard prov'd at large: Which being perform'd, the Promiſe made in the opening my Diſcourſe calls upon me, after having ſpoken of the Son, to ſay ſomething of the miraculous Mother. You have heard how great the Bleſſing was we receiv'd from the Son; I ſhall now lay before you the beſt way of Honouring the Mother, which is my Second Part.</p>
+            </div>
+            <div n="2" type="part">
+               <head>II. P.</head>
+               <p>THe Catholick Church was always careful to put juſt Bounds and Li<g ref="char:EOLhyphen"/>mits to that Honour which her Children paid to the Virgin Mother; giving a check to thoſe who by an indiſcreet Zeal carried it too high, and not ſupporting ſuch who
+<pb n="23" facs="tcp:65068:13"/> durſt in the leaſt derogate from her. Of this we have a clear Proof in St. <hi>Epiphanius,</hi> a Father living near the middle of the Fourth Age: In him we read of the <hi>Collyridians,</hi>
+                  <note place="margin">Epip. Haer. 79.</note> Perſons who offer'd certain Cakes in Sacri<g ref="char:EOLhyphen"/>fice to the Virgin Mother, who, for ſo do<g ref="char:EOLhyphen"/>ing, are treated as Hereticks, for raiſing her above the Nature of a Creature, and ſo in<g ref="char:EOLhyphen"/>trenching on the Divine Prerogatives. So likewiſe the ſame Father ſtigmatizes others, call'd <hi>Antidicomarianites,</hi> with the ſame in<g ref="char:EOLhyphen"/>famous<note place="margin">Haer. 78.</note> Character, for denying one of her Chief Prerogatives, the Honour of being a Perpetual Virgin. So that as ſhe forbids her Children to give her more Honour then may be allow'd to a Creature, ſhe likewiſe permits them not to deprive her of any Advantage granted by her and our Creator. The firſt is ſo abſurd, that it cannot be a Temptation to a Reaſonable Creature; the ſecond ſo unjuſt, that none can refuſe it that know her Merits. To adore her as a Goddeſs, were the moſt enormous of Crimes, a Sacrilegious Ido<g ref="char:EOLhyphen"/>latry; not to Honour her above all Saints, were to diminiſh her Dignity, and a ma<g ref="char:EOLhyphen"/>nifeſt
+<pb n="24" facs="tcp:65068:14"/> Injuſtice. We are allow'd to pray to her, as the Mother of Pity, to pray for us; but muſt always expect the Grace im<g ref="char:EOLhyphen"/>plor'd, not from her, but her Son's Bounty. Here you ſee the Spirit of the Catholick Church is, that her Children in Honour<g ref="char:EOLhyphen"/>ing the Virgin Mother, ſhould never tranſ<g ref="char:EOLhyphen"/>greſs by falling into Extreams, in giving her more then is due to a Creature, or re<g ref="char:EOLhyphen"/>fuſing what is her Right upon ſo many juſt Titles. <hi>Maria in honore ſit, Dominus</hi>
+                  <note place="margin">Haer. 79.</note> 
+                  <hi>adoretur; Let Mary be honour'd, but let God be ador'd</hi> as our Sovereign Lord and Maſter.</p>
+               <p>But my time is too far ſpent to enter upon the particular Diſcuſſion of ſeveral Ways that may be made uſe of in Ho<g ref="char:EOLhyphen"/>nouring the Virgin Mother: Wherefore I ſhall content my ſelf at preſent to recom<g ref="char:EOLhyphen"/>mend only that unto you, which is moſt deſir'd by the Church and her, moſt ad<g ref="char:EOLhyphen"/>vantagious to all that honour her, and which alone makes all other Honours done her, to be truly ſo: I mean, the Imi<g ref="char:EOLhyphen"/>tation of her Life and Vertues.</p>
+               <pb n="25" facs="tcp:65068:14"/>
+               <p> The Chief Honour St. <hi>Paul</hi> demanded from thoſe converted by his Apoſtolical Labours, was, That they would ſtudy to imitate his Life, as he did the Sacred Life of <hi>Chriſt; Fratres imitatores mei eſtote, ſi<g ref="char:EOLhyphen"/>cut</hi>
+                  <note place="margin">1 Cor. 11. <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </note> 
+                  <hi>ego Chriſti.</hi> This is the beſt way of Honouring the Saints, moſt acceptable to them, and moſt beneficial to us: And therefore St. <hi>Auguſtin</hi> ſays, <hi>They alone truly</hi>
+                  <note place="margin">Serm. 74. de Sanctis.</note> 
+                  <hi>keep the Feſtivals of the Saints and Martyrs, and truly honour them as they ought,</hi> qui ip<g ref="char:EOLhyphen"/>ſorum Marryrum exempla ſequuntur, <hi>who make it their buſineſs to imitate their Lives.</hi> And the Reaſon is evident: For when we would make our Court to any Great Per<g ref="char:EOLhyphen"/>ſon here on Earth, and convince him we have a true Honour for him, we cannot do it more efficaciouſly, then by ſaying always what he ſays, approving what he ap<g ref="char:EOLhyphen"/>proves, finding fault with all he diſlikes; in a word, imitating his Behaviour and Conduct in all things. By this Proceeding we convince him, that we take his Judg<g ref="char:EOLhyphen"/>ment for our Rule to act by, we eſteem his Choice to be the moſt wiſe, and himſelf to be the moſt excellent Pattern for Pru<g ref="char:EOLhyphen"/>dence,
+<pb n="26" facs="tcp:65068:15"/> Diſcretion, and Wiſdom, of all others. Is not this the higheſt Honour we can ſhew? And in reality 'tis ſo, if we think he deſerves it, and proceed without Flattery. But the Saints in Heaven are not only above our Flattery, but have moreo<g ref="char:EOLhyphen"/>ver this Advantage, which we have not: Their Judgments, when on Earth, were ex<g ref="char:EOLhyphen"/>actly conformable to the Wiſdom of Hea<g ref="char:EOLhyphen"/>ven; their Choice ſquar'd to the Rules of the Goſpel; their Actions meaſur'd by the Will of the Almighty: To which muſt be added, That now in Glory they ſee incom<g ref="char:EOLhyphen"/>parably more clear; that no way of Li<g ref="char:EOLhyphen"/>ving here on Earth but theirs, when Pil<g ref="char:EOLhyphen"/>grims with us, was to be eſteem'd Ratio<g ref="char:EOLhyphen"/>nal; and now being immovably fix'd to the Will of the Almighty, can love only what he loves, and neceſſarily hate what he hates; and conſequently, cannot eſteem or admit of any Honour done to them<g ref="char:EOLhyphen"/>ſelves, as truly ſuch, which is not at the ſame time a true Honour of the Lord of Glory, who cannot poſſibly approve of any Action directed to himſelf, or his Saints, that is not accompanied with a De<g ref="char:EOLhyphen"/>ſire
+<pb n="27" facs="tcp:65068:15"/> at leaſt of imitating his Son, or Diſci<g ref="char:EOLhyphen"/>ples that follow'd his Example. Therefore it is only then, the Saints eſteem them<g ref="char:EOLhyphen"/>ſelves truly Honour'd, when their own ex<g ref="char:EOLhyphen"/>emplary Lives contribute in any meaſure to carry on the true Honour and Glory due to our common Lord and Maſter. When they ſee any one become Chaſte by their Example, Penitent by their Example, Self-deniers by their Example, true Ser<g ref="char:EOLhyphen"/>vants and Adorers of the Lord of Glory, being animated and ſtirr'd up by their Ex<g ref="char:EOLhyphen"/>ample; this they eſteem a great Honour indeed, that they ſhould be any ways in<g ref="char:EOLhyphen"/>ſtrumental to effect that which the Angels and whole Court of Heaven inceſſantly ſigh after, the Salvation of Men.</p>
+               <p>Upon this account St. <hi>Ambroſe</hi> contem<g ref="char:EOLhyphen"/>plating the Prerogatives of the Virgin Mo<g ref="char:EOLhyphen"/>ther, with the Advantages we may receive from them, and the beſt Honour ſhe can receive from us; recommends her Life to all the Faithful as a Pattern for theirs, <hi>Hinc</hi>
+                  <note place="margin">Lib. 1. de Virg.</note> 
+                  <hi>ſumat exempla vivendi,</hi> ſince as he adds, in her Life, as in the beſt Copy that was ever drawn after that great Original of her Di<g ref="char:EOLhyphen"/>vine
+<pb n="28" facs="tcp:65068:16"/> Son, we have expreſs'd the moſt live<g ref="char:EOLhyphen"/>ly Repreſentations and Sovereign docu<g ref="char:EOLhyphen"/>ments of all Virtues, <hi>
+                     <g ref="char:V">Ʋ</g>bi tanquam in ex<g ref="char:EOLhyphen"/>emplari magiſteria expreſſa probitatis;</hi> point<g ref="char:EOLhyphen"/>ing out to us what we ought to imbrace as conformable to God's Law, and what we ought to fly, as oppoſite to that Sacred Rule. In fine, a Pattern ſo univerſal, that every Man may find in it the Leſſon pro<g ref="char:EOLhyphen"/>per to himſelf. <hi>Talis fuit vita Mariae ut e<g ref="char:EOLhyphen"/>jus unius vita omnium diſciplina ſit:</hi> To the Proud ſhe offers Humility in a Sove<g ref="char:EOLhyphen"/>reign Degree; to the Luxurious Purity and Modeſty without example, to the Tepid and Slothful Chriſtian the moſt eminent Charity that ever inflamed the Breaſt of a Creature. What more humble than to own her ſelf a poor Handmaid, when aſ<g ref="char:EOLhyphen"/>ſum'd to the dignity of Mother to the Al<g ref="char:EOLhyphen"/>mighty? What more humble than to go a long Pilgrimage to viſit her Kinſwoman that had conceiv'd a Prophet, when ſhe carried in her own Womb, the Redeemer of Mankind, the Lord of Glory? What more humble than to preſent her ſelf in the Temple, as defil'd in Childbed, like the
+<pb n="29" facs="tcp:65068:16"/> reſt of her Sex, when ſhe had conceiv'd without loſs of Virginity, and brought forth with a miraculous Purity and Inte<g ref="char:EOLhyphen"/>grity? What more humble than to Re<g ref="char:EOLhyphen"/>deem her Firſt-born, complying with the Law impos'd on Sinners, when in her Arms ſhe carried him who came to waſh away the Guilt of the World, and whoſe Nature was incompatible with all that was ſinful? Never was Purity and Virginity carried to ſo eminent a pitch; never was Modeſty ſo exemplar, a Married Woman, unacquainted with all the lawful liberties of that ſtate; the Pureſt of Virgins, yet the moſt Honourable and Sublime of Mothers. What Charity could be compared to hers? who knew ſhe was choſen before all Crea<g ref="char:EOLhyphen"/>tures to the dignity of Mother of God; who had conceiv'd in a Spiritual manner, as St. <hi>Auguſtin</hi> ſays, this Heavenly Son in her own Soul, by Contemplation and Love before ſhe concerv'd him in her Womb, <hi>Filium ſuum prius concepit mente,</hi>
+                  <note place="margin">In Pſal. 67.</note> 
+                  <hi>quam carne.</hi> What melting joys muſt ſhe daily experience, when ſhe poſſeſt the God of Heaven made Man, and united to Hu<g ref="char:EOLhyphen"/>mane
+<pb n="30" facs="tcp:65068:17"/> Nature in her Chaſte Body? It muſt needs ſeem a Miracle, that her Life was not a continued Extaſie of Love, ſince ſhe had the Creator and Redeemer of Man<g ref="char:EOLhyphen"/>kind daily before her Eyes, conſtantly in her Thoughts; the ſuſtainer of all things ſupported by her Arms, the Father and Au<g ref="char:EOLhyphen"/>thor of all Being ſucking at her Breaſts, which made her cry out, Her Soul was tranſported with her God and Saviour, <hi>Ex<g ref="char:EOLhyphen"/>ultavit ſpiritus meus in Deo ſalutari meo.</hi>
+                  <note place="margin">Luc.</note> Her Underſtanding contemplated nothing but his Greatneſs; her Will inamour'd with nothing but his Bounty; her Me<g ref="char:EOLhyphen"/>mory charg'd with nothing but his Mer<g ref="char:EOLhyphen"/>cies, as the Scripture relates of her, <hi>Conſer<g ref="char:EOLhyphen"/>vabat omnia verba haec conferens in corde ſuo,</hi> locking up in the Cabinet of her Heart every Paſſage of his Divine Life, as a Sa<g ref="char:EOLhyphen"/>cred Fuel to feed the Flames of Divine Love. In a word, Her mouth utter'd no<g ref="char:EOLhyphen"/>thing but his Praiſes; her Hands were im<g ref="char:EOLhyphen"/>ploy'd wholly in his Service; her Feet made no Step but for his Concerns; and her Eyes could be ſatisfied with no other Object; witneſs her Grief and Tears when
+<pb n="31" facs="tcp:65068:17"/> ſhe thought him loſt in <hi>Jeruſalem:</hi> So that her whole Soul was tranſported with ſo raviſhing a Myſtery, always magnifying her Son and Saviour; <hi>Magnificat anima mea Dominum:</hi> Joyfully imploying all her Sen<g ref="char:EOLhyphen"/>ſes, all her Being, all her Soul, (as Venera<g ref="char:EOLhyphen"/>ble <hi>Bede</hi> obſerves upon theſe Words) in Thankſgiving and Gratitude; <hi>Quicquid vivo, ſentio, diſcerno gratulanter impendo.</hi>
+               </p>
+               <p>Theſe, Dear Chriſtians, are the true Praiſes of the Virgin Mother; theſe Ver<g ref="char:EOLhyphen"/>tues are what render her Honourable in Heaven; and the Imitation of theſe is the beſt Honour ſhe can receive, or expects from us upon Earth, not but that other Inferiour Honours may be good and lau<g ref="char:EOLhyphen"/>dable when us'd with a true deſire of ac<g ref="char:EOLhyphen"/>quiring the mention'd Vertues: Prayers for Example offered to her by the Proud, with a true deſire to become Humble; by the Diſſolute, with a true deſire to become Chaſte; by the Indevout, with a true deſire to become Fervent; by all Chriſtians with a true deſire and intention to ſerve her Glorious Son by imitating the Vertues ſo eminent in the Mother. Devotions to our
+<pb n="32" facs="tcp:65068:18"/> Lady with this Diſpoſition and intention, will ingage her efficaciouſly in our Pro<g ref="char:EOLhyphen"/>tection, and invite her powerfully to uſe that Grace and Favour ſhe has with her Di<g ref="char:EOLhyphen"/>vine Son, in Praying with us, and for us, that we may obtain a happy and glorious ſhare in that Redemption, for which the Eternal Word was this Day Incarnate, and ſo be<g ref="char:EOLhyphen"/>coming the ſource of all Grace in this World, and everlaſting Glory in the next; <hi>Which God of his Mercy grant to Your Sa<g ref="char:EOLhyphen"/>cred Majeſties, and all Your Subjects here aſ<g ref="char:EOLhyphen"/>ſembled.</hi> Amen.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:65068:18"/>
+            <head>A Catalogue of Books Printed for <hi>Henry Hills,</hi> Printer to the King's moſt Excel<g ref="char:EOLhyphen"/>lent Majeſty, for his Houſhold and Chappel, 1686.</head>
+            <p>REflections upon the Anſwer to the <hi>Papiſt Miſ-repreſented &amp;c.</hi> Directed to the Anſwerer. <hi>Quarto.</hi>
+            </p>
+            <p>
+               <hi>Kalendarium Catholicum</hi> for the Year 1686. <hi>Octavo.</hi>
+            </p>
+            <p>
+               <hi>Papiſts</hi> Proteſting againſt <hi>Proteſtant-Popery.</hi> In Anſwer to a Diſcourſe Entituled, <hi>A Papiſt not Miſ-repreſented by Pro<g ref="char:EOLhyphen"/>teſtants.</hi> Being a Vindication of the <hi>Papiſt Miſ-repreſented</hi> and <hi>Repreſented,</hi> and the <hi>Reflections</hi> upon the Anſwer. <hi>Quart.</hi>
+            </p>
+            <p>Copies of Two Papers Written by the late King <hi>Charles</hi> II. Together with a Paper Written by the late Dutcheſs of <hi>York.</hi> Publiſhed by his Majeſty's Command. <hi>Folio.</hi>
+            </p>
+            <p>The Spirit of Chriſtianity. Publiſhed by his Majeſty's Com<g ref="char:EOLhyphen"/>mand. <hi>Twelves.</hi>
+            </p>
+            <p>The firſt Sermon Preach'd before their Majeſties in <hi>Engliſh</hi> at <hi>Windſor,</hi> on the firſt <hi>Sunday</hi> of <hi>October</hi> 1685. By the Re<g ref="char:EOLhyphen"/>verend Father <hi>Dom. P. E.</hi> Monk of the Holy Order of S. <hi>Benedict,</hi> and of the <hi>Engliſh</hi> Congregation. Publiſhed by his Majeſty's Command. <hi>Quarto.</hi>
+            </p>
+            <p>Second Sermon Preached before the King and Queen, and Queen Dowager, at Their Majeſties Chappel at St <hi>James</hi>'s, <hi>November</hi> 1, 1685. By the Reverend Father <hi>Dom. Ph. Ellis,</hi> Monk of the Holy Order of S. <hi>Benedict,</hi> and of the <hi>Engliſh</hi> Congregation. Publiſhed by his Majeſty's Com<g ref="char:EOLhyphen"/>mand. <hi>Quarto.</hi>
+            </p>
+            <p>Sixth Sermon Preach'd before the King and Queen, in their Majeſties Chappel at St. <hi>James</hi>'s, upon the firſt <hi>Wedneſday</hi> in <hi>Lent,</hi> Febr. 24. 1685. By the Reverend Father <hi>Dom. Ph. Ellis,</hi> Monk of the Holy Order of St. <hi>Benedict,</hi> and of the <hi>Engliſh</hi> Congregation. Publiſh'd by his Majeſty's Command. <hi>Quarto.</hi>
+            </p>
+            <pb facs="tcp:65068:19"/>
+            <p> The Third Sermon Preach'd before the King and Queen, in their Majeſties Chappel at St. <hi>James</hi>'s, on the third <hi>Sunday</hi> in <hi>Advent, Decemb.</hi> 13. 1685. By the Reverend Father <hi>Dom. Ph. Ellis,</hi> Monk of the Holy Order of St. <hi>Benedict,</hi> and of the <hi>Engliſh</hi> Congr. Chaplain in Ordinary to His Ma<g ref="char:EOLhyphen"/>jeſty. Publiſhed by His Majeſties Command. <hi>Quarto.</hi>
+            </p>
+            <p>An Expoſition of the Doctrine of the Catholic Church in Mat<g ref="char:EOLhyphen"/>ters of Controverſie. By the Right Reverend <hi>James Benigne Boſſuet,</hi> Counſellor to the King, Biſhop of <hi>Meaux,</hi> formerly of <hi>Condom,</hi> and Preceptor to the <hi>Dauphin:</hi> Firſt Almoner to the <hi>Dauphineſs.</hi> Done into <hi>Engliſh</hi> with all the former Ap<g ref="char:EOLhyphen"/>probations, and others newly publiſhed in the Ninth and Laſt Edition of the <hi>French.</hi> Publiſhed by His Majeſties Command. <hi>Quarto.</hi>
+            </p>
+            <pb facs="tcp:65068:19"/>
+         </div>
+      </back>
+   </text>
+</TEI>
